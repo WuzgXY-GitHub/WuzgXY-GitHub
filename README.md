@@ -10,7 +10,7 @@ Hi, I'm WuzgXY, and an amateur translator from China.
 - ⚡ : )
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true" />
+  <div style="padding-left:5px"><img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true" /></div>
   <br />
   <img align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default" />
 </a>
