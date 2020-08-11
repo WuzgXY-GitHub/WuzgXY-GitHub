@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="100" width="460" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&show_icons=true&theme=dracula&hide_title=true" />
-  <img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&theme=dracula&layout=compact" />
+  <img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&show_icons=true&theme=dracula&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&theme=dracula&layout=compact" />
 </a>
 
 <!--### Hi there 👋
