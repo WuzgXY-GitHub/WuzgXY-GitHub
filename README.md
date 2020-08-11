@@ -1,6 +1,6 @@
 ### Hi there, I'm [WuzgXY!](https://github.com/WuzgXY-GitHub) 👋
 
-Hi, I'm WuzgXY, an amateur translator from China.
+Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 
 - 🔭 I’m currently working on l10n of Minecraft mods and more
 - 🌱 I’m currently ~~on the way of~~ learning C++ & Java
