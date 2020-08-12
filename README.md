@@ -16,7 +16,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 
-<a href"https://github.com/LWHK/NuclearCraft">
+<a href="https://github.com/LWHK/NuclearCraft">
   <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft />
 </a>
                                                   
