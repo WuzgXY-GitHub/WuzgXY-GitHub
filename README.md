@@ -16,11 +16,11 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/LWHK/NuclearCraft/">
-  <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
+  <img align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
 </a>
 <br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
+  <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
 </a>
                                                   
 <!--### Hi there 👋
