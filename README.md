@@ -20,7 +20,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 </a>
 <br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/">
-  <img align="right" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
 </a>
                                                   
 <!--### Hi there 👋
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
+
 -->
 
 <!--
