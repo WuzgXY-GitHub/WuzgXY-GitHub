@@ -11,7 +11,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 
 <a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank">
   <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
-  <br /><br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
   <img align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default/" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
