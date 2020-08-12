@@ -7,7 +7,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 - 🤔 I’m looking for help with Minecraft mod developing
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: WIP
-- ⚡ I'm a member of [![LWHK]裂文唬客](https://github.com/LWHK), a group of free, free and free translators : )
+- ⚡ I'm a member of [[LWHK]裂文唬客](https://github.com/LWHK), a group of free, free and free translators : )
 
 <a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank">
   <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
@@ -16,11 +16,11 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/LWHK/NuclearCraft/">
-  <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
+  <img alt="LWHK/NuclearCraft" align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
 </a>
 <br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/">
-  <img align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
+  <img alt="CFPAOrg/Minecraft-Mod-Language-Package" align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
 </a>
                                                   
 <!--### Hi there 👋
