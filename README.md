@@ -9,17 +9,17 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 - 📫 How to reach me: WIP
 - ⚡ I'm a member of [[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客](https://github.com/LWHK), a group of free, free and free translators : )
 
-<a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank">
+<a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank" title=" My stats and my topic langs">
   <img alt="My Stats" align="left" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
   <br /><br /><br /><br /><br /><br /><br /><br />
   <img alt="My Topic Langs" align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default/" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
-<a target="_blank" href="https://github.com/LWHK/NuclearCraft/">
+<a target="_blank" href="https://github.com/LWHK/NuclearCraft/" title="CHS Translation of NuclearCraft: Overhauled">
   <img alt="LWHK/NuclearCraft" align="left" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
-<a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/">
+<a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/" title="CFPA CHS L10n Project">
   <img alt="CFPAOrg/Minecraft-Mod-Language-Package" align="right" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
 </a>
                                                   
