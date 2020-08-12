@@ -1,4 +1,4 @@
-### Hi there, I'm [WuzgXY!](https://github.com/WuzgXY-GitHub) 👋
+### Hi there, I'm [WuzgXY](https://github.com/WuzgXY-GitHub)! 👋
 
 Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 
