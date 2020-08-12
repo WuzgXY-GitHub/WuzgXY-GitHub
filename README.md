@@ -12,15 +12,15 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 <a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank">
   <img alt="My Stats" align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
   <br /><br /><br /><br /><br /><br /><br /><br />
-  <img alt="My Topic Langs" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default/" />
+  <img alt="My Topic Langs" align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default/" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/LWHK/NuclearCraft/">
-  <img alt="LWHK/NuclearCraft" align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
+  <img alt="LWHK/NuclearCraft" align="left" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
 </a>
 <br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/">
-  <img alt="CFPAOrg/Minecraft-Mod-Language-Package" align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
+  <img alt="CFPAOrg/Minecraft-Mod-Language-Package" align="right" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
 </a>
                                                   
 <!--### Hi there 👋
