@@ -15,6 +15,8 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
   <img align="right" width="460" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default" />
 </a>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LWHK&repo=NuclearCraft)](https://github.com/LWHK/NuclearCraft)
+
 <!--### Hi there 👋
 
 **WuzgXY-GitHub/WuzgXY-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +36,6 @@ Here are some ideas to get you started:
 
 <!--
 
-**Great thanks to [Anurag Hazra](https://github.com/anuraghazra) who made the templates of stat!**
+**Great thanks to [Anurag Hazra](https://github.com/anuraghazra) who made the templates of stats!**
 
 -->
