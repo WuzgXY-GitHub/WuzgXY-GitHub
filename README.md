@@ -16,10 +16,10 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 
-[<a>
+<a href"https://github.com/LWHK/NuclearCraft">
   <img align="left" width="460" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft />
-</a>](https://github.com/LWHK/NuclearCraft)
-
+</a>
+                                                  
 <!--### Hi there 👋
 
 **WuzgXY-GitHub/WuzgXY-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
