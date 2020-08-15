@@ -7,7 +7,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 - 🤔 I’m looking for help with Minecraft mod developing
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: WIP
-- ⚡ I'm a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客]</a>, a group of free, free and free translators : )
+- ⚡ I'm a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of free, free and free translators : )
 
 <a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank" title=" My stats and my topic langs">
   <img alt="My Stats" align="left" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
