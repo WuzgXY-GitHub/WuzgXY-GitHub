@@ -1,9 +1,9 @@
-### Hello there, I'm [WuzgXY](https://github.com/WuzgXY-GitHub) xP 👋
+### Hello there, I'm [WuzgXY](https://github.com/WuzgXY-GitHub) 👋
 
 Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 
 - 🔭 I’m currently working on l10n of Minecraft mods and more
-- 🌱 I’m currently ~~on the way of~~ studying C++ & Java
+- 🌱 I’m currently ~~on the way to~~ studying C++ & Java
 - 🤔 I’m looking for help with Minecraft mod developing
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: WIP
