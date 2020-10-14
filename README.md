@@ -12,7 +12,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 <a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank" title=" My stats and my topic langs">
   <img alt="My Stats" align="left" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
   <br /><br /><br /><br /><br /><br /><br /><br />
-  <img alt="My Topic Langs" align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default/" />
+  <img alt="My Topic Langs" align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TartaricAcid&count_private=false&theme=gruvbox&layout=default/" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/LWHK/NuclearCraft/" title="CHS Translation of NuclearCraft: Overhauled">
