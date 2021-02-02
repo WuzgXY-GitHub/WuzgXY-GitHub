@@ -4,7 +4,7 @@ Hi, I'm WuzgXY, a student, and also an amateur translator from China.
 
 - 🔭 I’m currently working on l10n of Minecraft mods and more (if you want me to keep or create localizaion of a mod, please remind me [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues))
 - 🌱 I’m currently ~~on the way to~~ studying C++ & Java
-- 🤔 I’m looking for help with Minecraft mod developing
+- 🤔 I’m looking for help with Minecraft mod developing, not now tho
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: WIP
 - ⚡ I'm a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of free, free and free translators : )
