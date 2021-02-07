@@ -1,13 +1,14 @@
 ### Hello there, I'm [WuzgXY](https://github.com/WuzgXY-GitHub) 👋
 
-Hi, I'm WuzgXY, a student, and also an amateur translator from China.
+Hi, I am WuzgXY, a student, and also an amateur translator from China.
 
-- 🔭 I’m currently working on l10n of Minecraft mods and more (if you want me to keep or create localizaion of a mod, please remind me [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues))
-- 🌱 I’m currently ~~on the way to~~ studying C++ & Java
-- 🤔 I’m looking for help with Minecraft mod developing, not now tho
+- 🔭 I’m currently working on l10n of Minecraft mods and more (if you want me to keep or create localizaion of a mod, please remind me [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)) or PM/DM me via any social media
+- 🌱 I am currently ~~on the way to~~ studying C++ & Java
+- 🤔 I am looking for help with Minecraft mod developing, not now tho
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: WIP
-- ⚡ I'm a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of free, free and free translators : )
+- ⚡ I am a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of free, free and free translators : )
+- 😢 I have not got completely familiar with the Internet social etiquette, so I now apologize for my unpolite behavior sincerely
 
 <a href="https://github.com/anuraghazra/github-readme-stats/" target="_blank" title=" My stats and my topic langs">
   <img alt="My Stats" align="left" height="153" src="https://github-readme-stats.vercel.app/api?username=WuzgXY-GitHub&count_private=false&show_icons=true&theme=gruvbox&hide_title=true/" />
