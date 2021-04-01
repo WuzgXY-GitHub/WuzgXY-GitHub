@@ -20,8 +20,8 @@ I have decided against sending translations to official repositories, and instea
   <img alt="My Topic Langs" align="right" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuzgXY-GitHub&count_private=false&theme=gruvbox&layout=default/" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
-<a target="_blank" href="https://github.com/LWHK/NuclearCraft/" title="CHS Translation of NuclearCraft: Overhauled">
-  <img alt="LWHK/NuclearCraft" align="left" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=LWHK&theme=gruvbox&repo=NuclearCraft" />
+<a target="_blank" href="https://github.com/turbodiesel4598/NuclearCraft" title="NuclearCraft: Overhauled">
+  <img alt="turbodiesel4598/NuclearCraft" align="left" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=turbodiesel4598&theme=gruvbox&repo=NuclearCraft" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/" title="CFPA CHS L10n Project">
