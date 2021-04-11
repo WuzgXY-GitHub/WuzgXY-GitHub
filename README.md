@@ -10,7 +10,7 @@ Hi, I am WuzgXY, a student, and also an amateur translator from China.
 - ⚡ I am a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of free, free and free translators : )
 - 😢 I have not got completely familiar with the Internet social etiquette, so I now apologize for my unpolite behavior sincerely
 
-For modders:
+To modders:
 
 I have decided against sending translations to official repositories, and instead of that I will send translations to the [CFPA repository](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/blob/1.16/README-en.md), which is a commonized CHS translation integration of over 1000 mods. It was just a little bit troublesome for me to synchronise the translations of both sides (official and CFPA), and there are benefits to do translating for CFPA, because it has a better reviewing-feedback translation processing system, and it provides better CHS character rendering for its translations. I will still update [NuclearCraft](https://github.com/turbodiesel4598/NuclearCraft) for its official repository, because there is a ModID conflict between NC and NCO in CFPA repository, but other mods I am working on will only be updated in CFPA repository.
 
