@@ -2,8 +2,8 @@
 
 Hi, I am WuzgXY, a student, and also an amateur translator from China.
 
-- 🔭 I’m currently working on l10n of Minecraft mods and more (if you want me to keep or create localizaion of a mod, please remind me [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)) or PM/DM me via any social media
-- 🌱 I am currently ~~on the way to~~ studying C++ & Java
+- 🔭 I’m currently working on localization of Minecraft mods and more (if you want me to keep or create localizaion of a mod, please remind me [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)) or PM/DM me via any social media
+- 🌱 I have basic knowledge of C++, Java, Python and JavaScript
 - 🤔 I am looking for help with Minecraft mod developing, not now tho
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: WIP
@@ -21,7 +21,7 @@ I have decided against sending translations to official repositories, and instea
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/turbodiesel4598/NuclearCraft" title="NuclearCraft: Overhauled">
-  <img alt="turbodiesel4598/NuclearCraft" align="left" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=turbodiesel4598&theme=gruvbox&repo=NuclearCraft" />
+  <img alt="tomdodd4598/NuclearCraft" align="left" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=tomdodd4598&theme=gruvbox&repo=NuclearCraft" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/" title="CFPA CHS L10n Project">
