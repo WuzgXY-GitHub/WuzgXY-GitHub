@@ -2,6 +2,8 @@
 
 Hi, I am WuzgXY, a student, and also an amateur localiser from China. I am also interested in Touhou Project.
 
+If not with sundry explanations, all my works are released into Public Domain. This means you do not need to ask for my permission to do anything to my translations and more.
+
 - 🔭 I’m currently working on localisation of Minecraft mods and more (if you want me to keep or create localisaion of a mod, please remind me [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)) or directly message me via any social media
 - 🌱 I have basic knowledge of OOP but can not say that I know any language well
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
