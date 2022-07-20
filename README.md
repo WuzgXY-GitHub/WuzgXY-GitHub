@@ -8,7 +8,7 @@ If not with sundry explanations, all my works are released into Public Domain. T
 - 🌱 I have basic knowledge of OOP but can not say that I know any language well
 - 💬 Ask me about anything [here](https://github.com/WuzgXY-GitHub/WuzgXY-GitHub/issues)
 - 📫 How to reach me: You can find me on any platform I have created an account of with my nickname "WuzgXY" or "wuzg" or "轩辕"
-- ⚡ I am a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of free, free and free translators. I think this group aims at helping each other on translating more, so there is almost no collaborative project we maintain together
+- ⚡ I am a member of <a target="_blank" href="https://github.com/LWHK" title="sp Litwordhoek">[<abbr title="sp Litwordhoek">LWHK</abbr>]裂文唬客</a>, a group of [free, free and free translators](https://lwhk.github.io). I think this group aims at helping each other on translating more, so there is almost no collaborative project we maintain together
 - 🪦 I have the permission to commit to the [<abbr title="Cirno Fans Protection Association">CFPA</abbr> Minecraft mod CHS localisation repository](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
 - 😢 I have not got completely familiar with the Internet social etiquette, so I now apologize for my unpolite behavior like weird DMing sincerely
 
