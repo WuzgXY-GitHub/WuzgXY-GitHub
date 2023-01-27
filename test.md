@@ -5,7 +5,7 @@
 > 
 > *有理有据，欧盟藿香里岂无香草阴间*
 > 
-> - *EU Patchouli guidebook has vanilla Overworld*
+> - *Patchouli guidebook about EU contains vanilla Overworld*
 > 
 > *张弛有度，墨扬外包后犹得一根导管*
 > 
