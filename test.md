@@ -1,9 +1,9 @@
 
 > *无法无天，国防街区上竟有暴徒产卵*
 > 
-> *Mobs spawn on mod blocks*
+> - *Mobs spawn on mod blocks*
 > 
-> - *有理有据，欧盟藿香里岂无香草阴间*
+> *有理有据，欧盟藿香里岂无香草阴间*
 > 
 > - *EU Patchouli guidebook has vanilla Overworld*
 > 
