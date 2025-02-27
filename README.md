@@ -1,6 +1,6 @@
 ### Hello there, I am [WuzgXY](https://github.com/WuzgXY-GitHub) 👋
 
-I am wuzg a.k.a. 轩辕 (Xuanyuan), a student from China mainland. I am interested in localisation/translation from English to Simplified Chinese.
+I am 轩辕 (Xuanyuan) a.k.a. wuzg, a student from China mainland. I am interested in localisation/translation from English to Simplified Chinese.
 
 If not with sundry explanations or licensed otherwisely, all my works go straight into the Public Domain. You do not need to ask for permission to do anything to my translations and more.
 
@@ -20,7 +20,4 @@ If not with sundry explanations or licensed otherwisely, all my works go straigh
 <br /><br /><br /><br /><br /><br /><br /><br />
 <a target="_blank" href="https://github.com/turbodiesel4598/NuclearCraft">
   <img alt="Lach01298/QMD" align="right" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=Lach01298&theme=gruvbox&repo=QMD" />
-</a>
-<a target="_blank" href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package" style="display:none;">
-  <img alt="CFPAOrg/Minecraft-Mod-Language-Package" align="right" height="153" src="https://github-readme-stats.vercel.app/api/pin/?username=CFPAOrg&theme=gruvbox&repo=Minecraft-Mod-Language-Package" />
 </a>
