@@ -1,6 +1,6 @@
-### Hello there, I am [WuzgXY](https://github.com/WuzgXY-GitHub) 👋
+### Hello there, I am WuzgXY 👋
 
-I am 轩辕 (Xuanyuan) a.k.a. wuzg, a college student from China mainland. I am interested in translation from English to Simplified Chinese.
+I am WUZG Xuanyuan, a college student from China mainland. I am interested in translation from English to Simplified Chinese.
 
 If not with sundry explanations or licensed otherwisely, all my works go straight into the Public Domain. You do not need to ask for permission to do anything to my translations and more.
 
